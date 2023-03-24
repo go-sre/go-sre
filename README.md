@@ -2,12 +2,13 @@
 
 ## Definition 
 Automated
+API First - 12 factor app - backing services as resources, able to failover any resource
 Same principles, different focus and execution. Sense and respond vs command and control
 msre SRE focus on microservices. 
 Focus on layer 7 vs layer 1 - 3
 Distributed nature - assume failure first, assume cascading failure, failover and proxy
 
-## Software Focused
+## Software Engineering Focused
 Baked into every service, should run out of the box.
 Very software engineering focused including extension application architectures that fovor simplicity
 Observability - access logging
